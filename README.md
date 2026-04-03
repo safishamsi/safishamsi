@@ -11,8 +11,8 @@ AI Researcher working at the intersection of knowledge graphs, retrieval systems
 
 ## Experience
 
-- AI Engineer, Valent (Jan 2026 - Present)
-- Graduate Researcher, Institute for Data and AI, University of Birmingham (Jul 2025 - Sep 2025)
+- AI Engineer, [Valent](https://valent-projects.com/) (Jan 2026 - Present)
+- Graduate Researcher, [Institute for Data and AI](https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai), University of Birmingham (Jul 2025 - Sep 2025)
 - AI Engineer, SWAWE (Feb 2024 - Jan 2026)
 
 ## Education
