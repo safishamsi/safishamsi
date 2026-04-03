@@ -2,8 +2,6 @@
 
 AI Researcher working at the intersection of knowledge graphs, retrieval systems, and explainable AI, with a focus on healthcare and defence applications. I hold a Master's in Data Science with Distinction from the University of Birmingham and currently build AI systems at Valent in London. Outside research, I play chess and have a serious interest in fashion design, two disciplines that, like AI, reward both intuition and rigorous thinking.
 
-P.S. Always looking for the next hard problem.
-
 ## Research
 
 **MICAD 2025** · Oral Presentation · Springer LNEE
