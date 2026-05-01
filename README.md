@@ -34,9 +34,8 @@ Went viral 48 hours after Andrej Karpathy posted his LLM Knowledge Bases workflo
 
 | Highlight | Detail |
 |---|---|
-| **Unicorn Mafia Hackathon (3rd place)** | [FirstSight](https://github.com/safishamsi/FirstSight) - real-time first-aid guidance on Meta Ray-Ban glasses, stroke detection + contactless heart rate via computer vision |
+| **Unicorn Mafia Hackathon (3rd / 120+ people, 47 teams)** | [FirstSight](https://github.com/safishamsi/FirstSight) - real-time first-aid guidance on Meta Ray-Ban glasses, stroke detection + contactless heart rate via computer vision |
 | **OSS Distribution** | [graphify](https://github.com/safishamsi/graphify) - 40k+ stars, 450k+ PyPI downloads |
-| **Viral Launch** | 12k stars in 48 hours after Andrej Karpathy's LLM Knowledge Bases post |
 | **Organic Coverage** | 7+ Medium articles, 8+ YouTube videos, Analytics Vidhya, AI in Plain English, Hacker News - zero paid |
 | **Research** | Oral presentation at MICAD 2025 (Springer LNEE) - multimodal KG-augmented retrieval for medical diagnosis |
 | **Writing** | [The Memory Layer](https://safishamsi.gumroad.com/l/qetvlo) - book on persistent memory for AI agents |
