@@ -8,8 +8,6 @@ AI Research Engineer working across knowledge graphs, retrieval systems, disinfo
 
 [![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=flat&logo=github&label=stars)](https://github.com/safishamsi/graphify/stargazers) [![Downloads](https://static.pepy.tech/badge/graphifyy)](https://pepy.tech/project/graphifyy) [![PyPI](https://img.shields.io/pypi/v/graphifyy?style=flat&label=pypi)](https://pypi.org/project/graphifyy/) [![License](https://img.shields.io/github/license/safishamsi/graphify?style=flat)](https://github.com/safishamsi/graphify/blob/v4/LICENSE)
 
-**450k+ PyPI downloads · ~37k GitHub stars · GitHub global rank #718 · launched April 5, 2026**
-
 ### Coverage
 
 Went viral 48 hours after Andrej Karpathy posted his LLM Knowledge Bases workflow.
