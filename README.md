@@ -72,8 +72,3 @@ Multi-modal Deep Learning · Defence Tech · Online Manipulation & Disinformatio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/safi-shamsi) [![X](https://img.shields.io/badge/X-%40safishamsii-000000?style=flat&logo=x&logoColor=white)](https://x.com/safishamsii) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safishamsi98@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=safishamsi&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats" height="165" />
-</p>
