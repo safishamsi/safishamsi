@@ -10,23 +10,35 @@ AI Research Engineer working across knowledge graphs, retrieval systems, disinfo
 
 ### Coverage
 
-Went viral 48 hours after Andrej Karpathy posted his LLM Knowledge Bases workflow.
+Went viral 48 hours after Andrej Karpathy posted his LLM Knowledge Bases workflow. Covered across LinkedIn, Instagram, TikTok, YouTube, Medium, Analytics Vidhya, Towards AI, and blogs — all organic.
 
-**Medium** - 7+ independent articles across GoPenAI, Agentic Builders, Data Science in Your Pocket:
-- [Graphify: Build a Knowledge Graph From Your Entire Codebase](https://medium.com/@mustafa.gencc94/graphify-build-a-knowledge-graph-from-your-entire-codebase-without-sending-your-code-to-anyone-1b6924474b50) · Mustafa Genc, GoPenAI
-- [How to Use Graphify: Turn Any Folder Into a Knowledge Graph](https://medium.com/agentic-builders/how-to-use-graphify-turn-any-folder-into-a-knowledge-graph-d51b38eb60b6) · Ana Bildea PhD, Agentic Builders
-- [Andrej Karpathy's LLM Wiki Codes: Graphify](https://medium.com/data-science-in-your-pocket/andrej-karparthys-llm-wiki-codes-graphify-b73bec5d87ea) · Mehul Gupta, Data Science in Your Pocket
-- [Optimizing Token Usage with Graphify using Knowledge Graphs](https://abhishek-iiit.medium.com/optimizing-token-usage-with-graphify-using-knowledge-graphs-31afd57a8a21) · Abhishek Jaiswal
-- [Graphify vs. Caveman: Two Tools That Make AI Coding Assistants Smarter](https://medium.com/@shahsoumil519/graphify-vs-caveman-two-clever-tools-that-make-your-ai-coding-assistant-way-smarter-c6cd91378c59) · Soumil Shah
+**LinkedIn**
+- [Graphify Reduces AI Token Usage by 71.5x](https://www.linkedin.com/posts/adityaprasad1308_ai-llm-promptengineering-activity-7454429083662422016-Fi59) · Aditya Prasad
+- [Andrej Karpathy's Dream Tool: Graphify for Claude Code](https://www.linkedin.com/posts/eric-vyacheslav-156273169_someone-built-andrej-karpathys-dream-tool-activity-7447538925771886592-KRNz) · Eric Vyacheslav
+- [Applying LLMs to Incident Response with Graphify](https://www.linkedin.com/posts/sylvainkalache_we-applied-karpathys-idea-that-llms-should-activity-7449420627049938944-gdUc) · Sylvain Kalache (real SRE use case)
+- [Graphify Review: 7.3x Fewer Tokens](https://www.linkedin.com/posts/bharatsuneja_a-tool-called-graphify-went-viral-last-week-activity-7447696815086346240-o5jS) · Bharat Suneja
+- [Graphify: Andrej Karpathy's Knowledge Graph in One Command](https://www.linkedin.com/posts/ray-wang-52039b31_github-safishamsigraphify-ai-coding-assistant-activity-7447627088972541952-Ry6d) · Ray Wang
 
-**YouTube** - 8+ independent videos including:
+**Instagram & TikTok** - reels reaching 50K+ likes on a single post
+
+**YouTube** - 10+ independent tutorials including:
 - [This Tool Fixes AI Coding at Scale with 70x Fewer Tokens](https://www.youtube.com/watch?v=WNru_PFycT8)
+- [Graphify + Claude Code: The Solution For Big Repos](https://www.youtube.com/watch?v=rgYnZqi2GmA)
+- [Graphify: Instant Knowledge Graph for Claude Code/Antigravity](https://www.youtube.com/watch?v=BkHps04qGgc)
 - [Claude Code + Graphify = Local RAG (Unlimited Memory)](https://www.youtube.com/watch?v=EKbQ5sajVxA)
-- [Graphify: Karpathy's LLM Wiki Open Sourced](https://www.youtube.com/watch?v=zR5tyP4Onkc)
 - [Antigravity + Graphify: Free Tool Makes Google Antigravity 10x Smarter](https://www.youtube.com/watch?v=YwGUT6z0lQI)
 - [OpenCode + Graphify: Stop Wasting Tokens](https://www.youtube.com/watch?v=-L_faOE-H5g)
 
-**Press:** [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) · [AI in Plain English](https://ai.plainenglish.io/from-50-files-to-one-graph-how-graphify-turns-code-into-knowledge-de96cfbf3fbc) · [LinkedIn Pulse](https://www.linkedin.com/pulse/anthropic-panic-copilot-double-checks-graphifys-fast-rise-morgan-ab3uc) · Hacker News
+**Articles** - 12+ independent pieces:
+- [How to Use Graphify: Turn Any Folder Into a Knowledge Graph](https://medium.com/agentic-builders/how-to-use-graphify-turn-any-folder-into-a-knowledge-graph-d51b38eb60b6) · Ana Bildea, Agentic Builders
+- [Stop Wasting Tokens: My 71.5x Cheaper Claude Code Workflow](https://medium.com/gitconnected/i-cut-claude-codes-token-usage-by-71-5x-45556570d823) · Level Up Coding
+- [Supercharging Claude Code DX: Solving Context Bloat with Graphify](https://medium.com/gitconnected/supercharging-claude-code-dx-solving-context-bloat-and-ai-amnesia-with-graphify-and-ogham-mcp-6f8d5b414081) · Renjith Ravindranathan
+- [From 0 Insight to Infinite Connections: How Graphify Rewires Your Knowledge](https://pub.towardsai.net/from-0-insight-to-infinite-connections-how-graphify-rewires-your-knowledge-in-hour-41fc47afc186) · Towards AI
+- [Graphify: Build a Knowledge Graph From Your Entire Codebase](https://blog.gopenai.com/graphify-build-a-knowledge-graph-from-your-entire-codebase-without-sending-your-code-to-anyone-1b6924474b50) · Mustafa Genc, GoPenAI
+- [From Karpathy's LLM Wiki to Graphify: AI Memory Layers](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) · Riya Bansal, Analytics Vidhya
+- [Graphify vs. Caveman: Two Tools That Make AI Coding Assistants Smarter](https://medium.com/@shahsoumil519/graphify-vs-caveman-two-clever-tools-that-make-your-ai-coding-assistant-way-smarter-c6cd91378c59) · Soumil Shah
+
+**Press:** [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) · [Towards AI](https://pub.towardsai.net/from-0-insight-to-infinite-connections-how-graphify-rewires-your-knowledge-in-hour-41fc47afc186) · [AI in Plain English](https://ai.plainenglish.io/from-50-files-to-one-graph-how-graphify-turns-code-into-knowledge-de96cfbf3fbc) · [LinkedIn Pulse](https://www.linkedin.com/pulse/anthropic-panic-copilot-double-checks-graphifys-fast-rise-morgan-ab3uc) · Hacker News
 
 [![Star History Chart](https://api.star-history.com/svg?repos=safishamsi/graphify&type=Date)](https://github.com/safishamsi/graphify)
 
@@ -36,7 +48,7 @@ Went viral 48 hours after Andrej Karpathy posted his LLM Knowledge Bases workflo
 |---|---|
 | **Unicorn Mafia Hackathon (3rd / 120+ people, 47 teams)** | [FirstSight](https://github.com/safishamsi/FirstSight) - real-time first-aid guidance on Meta Ray-Ban glasses, stroke detection + contactless heart rate via computer vision |
 | **OSS Distribution** | [graphify](https://github.com/safishamsi/graphify) - 40k+ stars, 450k+ PyPI downloads |
-| **Organic Coverage** | 7+ Medium articles, 8+ YouTube videos, Analytics Vidhya, AI in Plain English, Hacker News - zero paid |
+| **Organic Coverage** | 12+ articles, 10+ YouTube videos, Instagram/TikTok reels (50K+ likes), Analytics Vidhya, Towards AI, Hacker News - zero paid |
 | **Research** | Oral presentation at MICAD 2025 (Springer LNEE) - multimodal KG-augmented retrieval for medical diagnosis |
 | **Writing** | [The Memory Layer](https://safishamsi.gumroad.com/l/qetvlo) - book on persistent memory for AI agents |
 | **Building** | [graphifylabs.ai](https://graphifylabs.ai) - enterprise knowledge graph engine |
