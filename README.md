@@ -38,6 +38,8 @@ Went viral 48 hours after Andrej Karpathy posted his LLM Knowledge Bases workflo
 - [From Karpathy's LLM Wiki to Graphify: AI Memory Layers](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) · Riya Bansal, Analytics Vidhya
 - [Graphify vs. Caveman: Two Tools That Make AI Coding Assistants Smarter](https://medium.com/@shahsoumil519/graphify-vs-caveman-two-clever-tools-that-make-your-ai-coding-assistant-way-smarter-c6cd91378c59) · Soumil Shah
 
+- [Rootly AI Labs built rootly-graphify-importer](https://github.com/Rootly-AI-Labs/rootly-graphify-importer) - turns Rootly incidents, alerts, and teams into a queryable knowledge graph using graphify
+
 **Press:** [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) · [Towards AI](https://pub.towardsai.net/from-0-insight-to-infinite-connections-how-graphify-rewires-your-knowledge-in-hour-41fc47afc186) · [AI in Plain English](https://ai.plainenglish.io/from-50-files-to-one-graph-how-graphify-turns-code-into-knowledge-de96cfbf3fbc) · [LinkedIn Pulse](https://www.linkedin.com/pulse/anthropic-panic-copilot-double-checks-graphifys-fast-rise-morgan-ab3uc) · Hacker News
 
 [![Star History Chart](https://api.star-history.com/svg?repos=safishamsi/graphify&type=Date)](https://github.com/safishamsi/graphify)
@@ -83,4 +85,3 @@ Multi-modal Deep Learning · Defence Tech · Online Manipulation & Disinformatio
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/safi-shamsi) [![X](https://img.shields.io/badge/X-%40safishamsii-000000?style=flat&logo=x&logoColor=white)](https://x.com/safishamsii) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safishamsi98@gmail.com)
-
